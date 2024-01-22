@@ -3,7 +3,7 @@
 Creates a sociogram for pupils with green arrows for given likes and red arrows for given unlikes.
 
 ## Installation
-In order to test the script please run the following commands:
+In order to run the script please run the following commands:
 ```sh
 pip install numpy
 pip install pandas
